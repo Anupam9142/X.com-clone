@@ -58,7 +58,7 @@ https://tweeks.netlify.app/
 
 ## Support
 
-For support, email Freelqncer.Anupam.kumar1@gmail.com or contact me via any platform.
+For support, email Freelancer.Anupam.kumar1@gmail.com or contact me via any platform.
 
 
 ## Optimizations
